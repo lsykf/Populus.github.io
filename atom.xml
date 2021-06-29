@@ -3,11 +3,11 @@
   <title>Hexo</title>
   
   
-  <link href="https://lsykf.github.io/lsykf.github.io/atom.xml" rel="self"/>
+  <link href="https://lsykf.github.io/atom.xml" rel="self"/>
   
-  <link href="https://lsykf.github.io/lsykf.github.io/"/>
+  <link href="https://lsykf.github.io/"/>
   <updated>2021-06-29T08:32:40.222Z</updated>
-  <id>https://lsykf.github.io/lsykf.github.io/</id>
+  <id>https://lsykf.github.io/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://lsykf.github.io/lsykf.github.io/2021/06/29/hello-world/"/>
-    <id>https://lsykf.github.io/lsykf.github.io/2021/06/29/hello-world/</id>
+    <link href="https://lsykf.github.io/2021/06/29/hello-world/"/>
+    <id>https://lsykf.github.io/2021/06/29/hello-world/</id>
     <published>2021-06-29T08:32:40.222Z</published>
     <updated>2021-06-29T08:32:40.222Z</updated>
     
